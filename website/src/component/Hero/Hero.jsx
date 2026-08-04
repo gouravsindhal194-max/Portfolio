@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="hero-content">
           <p className="available-text">AVAILABLE FOR WORK</p>
           <h1 className="hero-title">
-            Hi, I'm <span>Manvendra</span>
+            Hi, I'm <span>Gourav</span>
           </h1>
           <p className="hero-description">
             Freelance <strong>UI/UX Designer & Frontend Developer</strong>. I design and build digital products
